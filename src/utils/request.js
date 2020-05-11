@@ -5,8 +5,8 @@ import axios from 'axios'
 
 // create an axios instance
 const service = axios.create({
-  // baseURL: 'http://123.57.211.30:3000', // 服务器api地址
-  baseURL: 'http://192.168.0.105:3000', // 本地api地址 url = base url + request url
+  baseURL: 'http://123.57.211.30:3000', // 服务器api地址
+  // baseURL: 'http://192.168.0.105:3000', // 本地api地址 url = base url + request url
   // withCredentials: true, // send cookies when cross-domain requests
   timeout: 5000 // request timeout
 })
