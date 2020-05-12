@@ -4,7 +4,7 @@
         <div v-if="show" ref="leftbar_body" class="leftbar-body">
             <div class="leftbar-body-bg"></div>
             <div class="leftbar-body-avatar">
-                <img src="@/assets/image/blog/avatargif.gif" alt />
+                <img src="@/assets/image/blog/theweeknd3.jpg" alt />
             </div>
             <div class="leftbar-body-name">吴振吉</div>
             <div class="leftbar-body-menu">

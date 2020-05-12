@@ -1,7 +1,7 @@
 <template>
 <div class="blogitem-li">
     <div class="blogitem-li-avatar">
-        <img src="@/assets/image/blog/avatargif.gif" alt />
+        <img src="@/assets/image/blog/theweeknd3.jpg" alt />
     </div>
     <div class="blogitem-li-auth">吴振吉</div>
     <div class="blogitem-li-meta">{{itemInfo.createdAt | getTimeDiff}}</div>
